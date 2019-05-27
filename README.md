@@ -1,0 +1,2 @@
+# ControllerAdviceAndAspect
+用于测试在SpringBoot中,校验的切面中抛出一个自定义异常,由ControllerAdvice抓住并处理异常的问题。
